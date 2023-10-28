@@ -1,3 +1,4 @@
+[![ckckckcz](https://ibb.co/CWZbSb3)](https://lekomasahiro.000webhostapp.com)
 <h1 align="center">Hallo Semua 🙌, <br> Perkenalkan Riovaldo Alfitan Fahmi Rahman</h1>
 <h3 align="center">Hello everyone, nice to meet you. I'm usually called Rio and now I'm studying at Malang State Polytechnic, and my passion in the IT world is Front-end, UI/UX.</h3>
 
