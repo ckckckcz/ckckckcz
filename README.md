@@ -1,6 +1,6 @@
 ![Black Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/ckckckcz/ckckckcz/assets/75251355/32e99fb3-1b16-4764-9b7d-3e77b981fa3b)
-<h1 align="center">Hallo Semua 🙌, <br> Perkenalkan Riovaldo Alfitan Fahmi Rahman</h1>
-<h3 align="center">Hello everyone, nice to meet you. I'm usually called Rio and now I'm studying at Malang State Polytechnic, and my passion in the IT world is Front-end, UI/UX.</h3>
+<h1 align="center" style="color:white;">Hallo Semua 🙌, <br> Perkenalkan Riovaldo Alfitan Fahmi Rahman</h1>
+<h3 align="center" style="color:white;">Hello everyone, nice to meet you. I'm usually called Rio and now I'm studying at Malang State Polytechnic, and my passion in the IT world is Front-end, UI/UX.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ckckckcz&label=Profile%20views&color=0e75b6&style=flat" alt="ckckckcz" /> </p>
 
