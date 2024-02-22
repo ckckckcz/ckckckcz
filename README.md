@@ -6,7 +6,7 @@
 
 - Project 1 [Lekomasademo](https://lekomasademo.000webhostapp.com)
 
-- 🌱 I’m currently learning **React Js, Next Js, Vue Js, Laravel, Flutter**
+- 🌱 I’m currently learning **React Js, Next Js, Vue Js, Laravel, UI/UX**
 
 - Project 2 [Digital Portfolio](https://lekomasahiro.000webhostapp.com)
 
