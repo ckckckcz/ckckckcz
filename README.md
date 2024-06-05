@@ -6,9 +6,9 @@ Informatics Engineering Student at [State Polytechnic of Malang.](https://www.in
 
 📱 **[instagram](https://instagram.com/ckckckcz/)** // 🥋 **[linkedin](https://www.linkedin.com/in/riovaldorahman/)**
 
-<h3 align="left">Languages and Tools :</h3>
+<h3 align="left">Languages, Framework and Tools :</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,git,mysql,figma,vscode,nextjs" /
+  <img src="https://skillicons.dev/icons?i=java,html,css,javascript,git,mysql,figma,vscode,nextjs,npm,npx" /
 </a>
 <br>
 <br>
