@@ -13,5 +13,8 @@ Informatics Engineering Student at [State Polytechnic of Malang.](https://www.in
 <br>
 <br>
 
-![ckckckcz GitHub stats](https://github-readme-stats.vercel.app/api?username=ckckckcz&show_icons=true)<br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckckckcz&layout=compact)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ckckckcz&show_icons=true&locale=en&layout=compact" alt="ckckckcz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ckckckcz&show_icons=true&locale=en" alt="ckckckcz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ckckckcz&" alt="ckckckcz" /></p>
