@@ -13,4 +13,5 @@ Informatics Engineering Student at [State Polytechnic of Malang.](https://www.in
 <br>
 <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ckckckcz&show_icons=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckckckcz&layout=compact)
+![ckckckcz GitHub stats](https://github-readme-stats.vercel.app/api?username=ckckckcz&show_icons=true)<br><br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ckckckcz&layout=compact)
