@@ -8,7 +8,7 @@ Informatics Engineering Student at [State Polytechnic of Malang.](https://www.in
 
 <h3>Languages, Framework and Tools :</h3>
 <a href="https://skillicons.dev">
-  <img align="center" src="https://skillicons.dev/icons?i=java,html,css,javascript,git,mysql,figma,vscode,nextjs,npm,ts,tailwind,react,git" /
+  <img align="center" src="https://skillicons.dev/icons?i=java,html,css,javascript,git,mysql,figma,vscode,nextjs,npm,ts,tailwind,react" /
 </a>
 <br>
 <br>
