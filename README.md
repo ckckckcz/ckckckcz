@@ -1,11 +1,3 @@
-👋 Hey there, I'm **Rio**,
-
-UI/UX based in Malang, Indonesia. 
-
-Informatics Engineering Student at [State Polytechnic of Malang.](https://www.instagram.com/polinema_campus/).
-
-📱 **[instagram](https://instagram.com/ckckckcz/)** // 🥋 **[linkedin](https://www.linkedin.com/in/riovaldorahman/)**
-
 <h3>Languages, Framework and Tools :</h3>
 <a href="https://skillicons.dev">
   <img align="center" src="https://skillicons.dev/icons?i=java,html,css,javascript,git,mysql,figma,vscode,nextjs,npm,ts,tailwind,react" /
