@@ -1,6 +1,6 @@
 <h3>Languages, Framework and Tools :</h3>
 <a href="https://skillicons.dev">
-  <img align="center" src="https://skillicons.dev/icons?i=java,html,css,javascript,git,mysql,figma,vscode,nextjs,npm,ts,tailwind,react,php,laravel,astro,supabase,python,vite" /
+  <img align="center" src="https://skillicons.dev/icons?i=java,html,css,javascript,git,mysql,figma,vscode,nextjs,npm,ts,tailwind,react,php,laravel,astro,supabase,python,vite,flutter,dart" /
 </a>
 <br>
 <br>
